@@ -1,0 +1,66 @@
+<svg id="inlineLoaderRef" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" width="100" height="100" overflow="visible" fill="#ff0095" stroke="none" class="single-loader">
+  
+  <defs>
+    <rect id="inline" x="15" y="45" width="8" height="8"/>
+  </defs>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="-58">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.08333333333333333s" repeatCount="indefinite"/>
+	<animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.08333333333333333s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="-42">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.16666666666666666s" repeatCount="indefinite"/>
+	<animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.16666666666666666s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="-26">
+	<animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.25s" repeatCount="indefinite"/>
+	<animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.25s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="-10">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.3333333333333333s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.3333333333333333s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="6">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.4166666666666667s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.4166666666666667s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="22">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.5s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="38">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.5833333333333334s" repeatCount="indefinite"/>
+	<animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.5833333333333334s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="54">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.6666666666666666s" repeatCount="indefinite"/>
+	<animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.6666666666666666s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="70"><animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.75s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.75s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="86">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.8333333333333334s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.8333333333333334s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="102">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="0.9166666666666666s" repeatCount="indefinite"/>
+	<animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="0.9166666666666666s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#inline" x="118">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="1s" repeatCount="indefinite"/>
+	<animateTransform attributeName="transform" type="translate" additive="sum" dur="1s" begin="1s" repeatCount="indefinite" from="0 0" to="10"/>
+  </use>
+  
+</svg>
